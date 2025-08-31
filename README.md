@@ -43,7 +43,7 @@ _Outils : YOLOv5, OpenCV, CLIP_
 _AUC ROC : 0.77, Recall : 0.62_
 
 ### 🧩 **Reconnaissance d’entités nommées (NER) avec spaCy et CamemBERT**  
-[Voir le projet](https://github.com/ndje-enge/NER-with-spaCy-and-CamemBERT) → Projet CNAM : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
+[Voir le projet](https://github.com/ndje-enge/Named-entity-recognition-Project) → Projet CNAM : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
 _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
 ---
@@ -104,7 +104,7 @@ _Tools: YOLOv5, OpenCV, CLIP_
 _AUC ROC: 0.77, Recall: 0.62_
 
 ### 🧩 **Named Entity Recognition (NER) with spaCy and CamemBERT**  
-[See project](https://github.com/ndje-enge/NER-with-spaCy-and-CamemBERT) → CNAM school project exploring NER in historical texts for faster interpretation by historians.  
+[See project](https://github.com/ndje-enge/Named-entity-recognition-Project) → CNAM school project exploring NER in historical texts for faster interpretation by historians.  
 _Tools: spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
 ---
