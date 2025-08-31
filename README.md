@@ -73,12 +73,12 @@ _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, Beauti
 ---
 
 ## Professional Experiences
-- **Full Stack Data Scientist – Banque de France**  
+- **Full Stack Data Scientist intern – Banque de France (5 months on site)**  
   🤖 Automated AML/CFT press article monitoring and reporting  
   🔧 Crawling (Crawl4AI, Selenium), advanced NLP (Transformers, OpenAI API, Mistral, BERT, RAG, FAISS), deployment through a Django interface  
   ☁️ Hands-on experience with **Azure AI Foundry**  
 
-- **Data Scientist – Safran Aircraft Engines**  
+- **Data Scientist intern – Safran Aircraft Engines (4 months on site)**  
   📌 Error detection and automatic comment generation for Safran aircraft engine technical documentation  
   🔧 PEFT finetuning on Transformer models (Mistral 7B), PyTorch, HuggingFace  
   💻 Training on HPC supercomputer  
