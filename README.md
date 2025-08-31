@@ -1,6 +1,6 @@
 # Bonjour / Hello ! 
 
-Choisissez votre langue/ Choose your language:
+
 [🇫🇷 Français](#-version-française) | [🇬🇧 English](#-english-version) 
 
 
