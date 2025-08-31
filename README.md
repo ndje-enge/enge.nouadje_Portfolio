@@ -5,6 +5,8 @@
 
 
 ## 🇫🇷 Version Française 
+
+## Qui suis-je ?
 🎓 Ingénieur généraliste (ESILV Paris, promo 2025) spécialisé en **Data Science, Deep Learning et Cloud**  
 💡 Passionné par l’IA appliquée (NLP, Computer Vision, Agents IA) et l’industrialisation des modèles  
 🌍 Ouvert aux opportunités en Data Science & AI/ML Engineering en France et à l'international  
@@ -66,6 +68,8 @@ _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, Beauti
 
 
 ## 🇬🇧 English Version
+
+## About me
 🎓 Generalist Engineer (ESILV Paris, class of 2025) specialized in **Data Science, Deep Learning, and Cloud**  
 💡 Passionate about applied AI (NLP, Computer Vision, AI Agents) and ML model industrialization  
 🌍 Open to opportunities in Data Science & AI/ML Engineering abroad
