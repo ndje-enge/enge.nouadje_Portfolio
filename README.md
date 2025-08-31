@@ -1,7 +1,7 @@
 # Bonjour / Hello ! 
 
 Choisissez votre langue/ Choose your language:
-[🇫🇷 Français](#version-française) | [🇬🇧 English](#english-version) 
+[🇫🇷 Français](#-version-française) | [🇬🇧 English](#-english-version) 
 
 
 ## 🇫🇷 Version Française 
@@ -63,13 +63,13 @@ _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, Beauti
 - 💼 [LinkedIn](https://www.linkedin.com/in/enge-nouadje-fotso/)  
 - 📧 e_nouadje@orange.fr
 
-
+---
 
 
 ## 🇬🇧 English Version
 🎓 Generalist Engineer (ESILV Paris, class of 2025) specialized in **Data Science, Deep Learning, and Cloud**  
 💡 Passionate about applied AI (NLP, Computer Vision, AI Agents) and ML model industrialization  
-🌍 Open to opportunities in Data Science & AI/ML Engineering in France and abroad  
+🌍 Open to opportunities in Data Science & AI/ML Engineering abroad
 
 ---
 
