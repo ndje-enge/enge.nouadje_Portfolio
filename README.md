@@ -14,9 +14,8 @@ Choisissez votre langue/ Choose your language:
 ## Expériences professionnelles
 - **Data Scientist Full Stack – Banque de France**  
   🤖 Automatisation du reporting LCB-FT (Lutte contre le blanchiment de capitaux et le financement du terrorisme) sur articles de presse  
-  🔧 Crawling, NLP avancé (Mistral, BERT, RAG), mise à disposition du projet via une interface Django
+  🔧 Crawling (Crawl4AI, Selenium), NLP avancé (Transformers, OpenAI API, Mistral, BERT, RAG, FAISS), mise à disposition du projet via une interface Django
   ☁️ Prise en main de **Azure AI Foundry**
-  _Outils : Crawl4AI, Selenium, Transformers, FAISS, Mistral, OpenAI API, Django_ 
 
 - **Data Scientist – Safran Aircraft Engines**  
   📌 Détection d’erreurs et génération de commentaires dans la documentation technique des moteurs d'avion Safran   
@@ -76,9 +75,8 @@ _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, Beauti
 ## Professional Experiences
 - **Full Stack Data Scientist – Banque de France**  
   🤖 Automated AML/CFT press article monitoring and reporting  
-  🔧 Crawling, advanced NLP (Mistral, BERT, RAG), deployment through a Django interface  
+  🔧 Crawling (Crawl4AI, Selenium), advanced NLP (Transformers, OpenAI API, Mistral, BERT, RAG, FAISS), deployment through a Django interface  
   ☁️ Hands-on experience with **Azure AI Foundry**  
-  _Tools: Crawl4AI, Selenium, Transformers, FAISS, Mistral, OpenAI API, Django_
 
 - **Data Scientist – Safran Aircraft Engines**  
   📌 Error detection and automatic comment generation for Safran aircraft engine technical documentation  
