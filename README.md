@@ -12,12 +12,12 @@ Choisissez votre langue/ Choose your language:
 ---
 
 ## Expériences professionnelles
-- **Data Scientist Full Stack – Banque de France**  
+- **Stagiaire Data Scientist Full Stack – Banque de France (5 mois en présentiel)**  
   🤖 Automatisation du reporting LCB-FT (Lutte contre le blanchiment de capitaux et le financement du terrorisme) sur articles de presse  
   🔧 Crawling (Crawl4AI, Selenium), NLP avancé (Transformers, OpenAI API, Mistral, BERT, RAG, FAISS), mise à disposition du projet via une interface Django
   ☁️ Prise en main de **Azure AI Foundry**
 
-- **Data Scientist – Safran Aircraft Engines**  
+- **Stagiaire Data Scientist – Safran Aircraft Engines (4 mois en présentiel)**  
   📌 Détection d’erreurs et génération de commentaires dans la documentation technique des moteurs d'avion Safran   
   🔧 Finetuning PEFT sur modèles Transformers (Mistral 7B), PyTorch, HuggingFace  
   💻 Supercalculateur HPC
