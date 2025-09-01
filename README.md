@@ -8,7 +8,7 @@
 
 ## Qui suis-je ?
 🎓 Ingénieur généraliste (ESILV Paris, promo 2025) spécialisé en **Data Science, Deep Learning et Cloud**  
-💡 Passionné par l’IA appliquée (NLP, Computer Vision, Agents IA) et l’industrialisation des modèles  
+💡 Passionné par la Data Science et l’IA appliquée (NLP, Computer Vision, Agents IA) et l’industrialisation des modèles  
 🌍 Ouvert aux opportunités en Data Science & AI/ML Engineering en France et à l'international  
 
 ---
