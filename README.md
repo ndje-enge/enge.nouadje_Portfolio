@@ -29,23 +29,24 @@
 ## 📂 Projets récents 
 
 ### 🛒 **Prévision de ventes (Olist)**  
-[Voir le projet](https://github.com/ndje-enge/Demand-forcasting) → Modèles statistiques (ARIMA, Auto-ARIMA) pour prévoir la demande produit  
+[Voir le projet](https://github.com/ndje-enge/Demand-forcasting) → Modèles statistiques (ARIMA, Auto-ARIMA) pour prévoir la demande produit.  
 _Outils : Python, pandas, statsmodels_
 
 ### 🎥 **Détection de violence en vidéo**  
-[Voir le projet](https://github.com/ndje-enge/Violence-Detection-Project) → Computer Vision en temps réel sur vidéos de surveillance  
+[Voir le projet](https://github.com/ndje-enge/Violence-Detection-Project) → Computer Vision en temps réel sur vidéos de surveillance.
 _Outils : OpenCV (optical flow de Farneback), Torch, ML_
 
 ### 🌊 **Détection de déchets plastiques dans l’océan**  
-[Voir le projet](https://app.readytensor.ai/publications/marine-pollution-detection-nts43wbWFDQM) → YOLO + CLIP sur des images surface/sous-marine (~8k images, précision 81%)  
+[Voir le projet](https://app.readytensor.ai/publications/marine-pollution-detection-nts43wbWFDQM) → YOLO + CLIP sur des images surface/sous-marine (~8k images, précision 81%).
 _Outils : YOLOv5, OpenCV, CLIP_
 
 ### 💳 **Prédiction de fraude bancaire**  
-[Voir le projet](https://github.com/ndje-enge/Bankruptcy-prediction) → Modèles de ML (Random Forest, Gradient Boosting, MLP)  
+[Voir le projet](https://github.com/ndje-enge/Bankruptcy-prediction) → Modèles de ML (Random Forest, Gradient Boosting, MLP) pour prédire les faillites d'entreprises à partir d'indicateurs clés de performance financiers.
 _AUC ROC : 0.77, Recall : 0.62_
+_Outils : Python, Scikit-learn, pandas
 
 ### 🧩 **Reconnaissance d’entités nommées (NER) avec spaCy et CamemBERT**  
-[Voir le projet](https://github.com/ndje-enge/Named-entity-recognition-Project) → Projet CNAM : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
+[Voir le projet](https://github.com/ndje-enge/Named-entity-recognition-Project) → Projet en collaboration avec le CNAM (Conservatoire national des arts et métiers)  : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
 _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
 ### 🏡 **Analyse des valeurs foncières en France (2020 & 2024)**
@@ -108,11 +109,11 @@ _Tools: OpenCV (Farneback optical flow), Torch, ML_
 _Tools: YOLOv5, OpenCV, CLIP_
 
 ### 💳 **Bankruptcy Prediction (Fraud-related)**  
-[See project](https://github.com/ndje-enge/Bankruptcy-prediction) → ML models (Random Forest, Gradient Boosting, MLP)  
+[See project](https://github.com/ndje-enge/Bankruptcy-prediction) → ML models (Random Forest, Gradient Boosting, MLP) to predict company bankruptcies from key financial indicators.  
 _AUC ROC: 0.77, Recall: 0.62_
-
+_Tools: Python, Scikit-learn, pandas_
 ### 🧩 **Named Entity Recognition (NER) with spaCy and CamemBERT**  
-[See project](https://github.com/ndje-enge/Named-entity-recognition-Project) → CNAM school project exploring NER in historical texts for faster interpretation by historians.  
+[See project](https://github.com/ndje-enge/Named-entity-recognition-Project) → Collaborative project with CNAM (Conservatoire national des arts et métiers): exploring NER in historical texts to assist historians in interpretation.
 _Tools: spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
 ### 🏡 **French Land Value Data Analysis (2020 & 2024)**
