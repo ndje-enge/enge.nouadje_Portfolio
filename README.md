@@ -30,27 +30,32 @@
 
 ### 🛒 **Prévision de ventes (Olist)**  
 [Voir le projet](https://github.com/ndje-enge/Demand-forcasting) → Modèles statistiques (ARIMA, Auto-ARIMA) pour prévoir la demande produit.  
+
 _Outils : Python, pandas, statsmodels_
 
 ### 🎥 **Détection de violence en vidéo**  
 [Voir le projet](https://github.com/ndje-enge/Violence-Detection-Project) → Computer Vision en temps réel sur vidéos de surveillance.
+
 _Outils : OpenCV (optical flow de Farneback), Torch, ML_
 
 ### 🌊 **Détection de déchets plastiques dans l’océan**  
 [Voir le projet](https://app.readytensor.ai/publications/marine-pollution-detection-nts43wbWFDQM) → YOLO + CLIP sur des images surface/sous-marine (~8k images, précision 81%).
+
 _Outils : YOLOv5, OpenCV, CLIP_
 
 ### 💳 **Prédiction de fraude bancaire**  
 [Voir le projet](https://github.com/ndje-enge/Bankruptcy-prediction) → Modèles de ML (Random Forest, Gradient Boosting, MLP) pour prédire les faillites d'entreprises à partir d'indicateurs clés de performance financiers.
-_AUC ROC : 0.77, Recall : 0.62_
+
 _Outils : Python, Scikit-learn, pandas
 
 ### 🧩 **Reconnaissance d’entités nommées (NER) avec spaCy et CamemBERT**  
 [Voir le projet](https://github.com/ndje-enge/Named-entity-recognition-Project) → Projet en collaboration avec le CNAM (Conservatoire national des arts et métiers)  : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
+
 _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
 ### 🏡 **Analyse des valeurs foncières en France (2020 & 2024)**
 [Voir le projet](https://github.com/ndje-enge/Land-Values-Data-Analysis) → Étude comparative de l’évolution du marché immobilier entre 2020 (Covid-19) et 2024 à partir des données publiques. Analyses par région, type de bien et prix au m², avec visualisations et cartes interactives.
+
 _Outils : Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 
 ---
@@ -98,26 +103,32 @@ _Outils : Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 
 ### 🛒 **Sales Forecasting (Olist)**  
 [See project](https://github.com/ndje-enge/Demand-forcasting) → Statistical models (ARIMA, Auto-ARIMA) for product demand forecasting  
+
 _Tools: Python, pandas, statsmodels_
 
 ### 🎥 **Violence Detection in Surveillance Videos**  
 [See project](https://github.com/ndje-enge/Violence-Detection-Project) → Real-time Computer Vision system for violence detection  
+
 _Tools: OpenCV (Farneback optical flow), Torch, ML_
 
 ### 🌊 **Marine Plastic Waste Detection**  
 [See project](https://app.readytensor.ai/publications/marine-pollution-detection-nts43wbWFDQM) → YOLO + CLIP applied on surface and underwater images (~8k images, 81% accuracy)  
+
 _Tools: YOLOv5, OpenCV, CLIP_
 
 ### 💳 **Bankruptcy Prediction (Fraud-related)**  
 [See project](https://github.com/ndje-enge/Bankruptcy-prediction) → ML models (Random Forest, Gradient Boosting, MLP) to predict company bankruptcies from key financial indicators.  
-_AUC ROC: 0.77, Recall: 0.62_
+
 _Tools: Python, Scikit-learn, pandas_
+
 ### 🧩 **Named Entity Recognition (NER) with spaCy and CamemBERT**  
 [See project](https://github.com/ndje-enge/Named-entity-recognition-Project) → Collaborative project with CNAM (Conservatoire national des arts et métiers): exploring NER in historical texts to assist historians in interpretation.
+
 _Tools: spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
 ### 🏡 **French Land Value Data Analysis (2020 & 2024)**
 [See project](https://github.com/ndje-enge/Land-Values-Data-Analysis) → Comparative study of the real estate market evolution between 2020 (Covid-19) and 2024 using public datasets. Analyses by region, property type, and price per m², with visualizations and interactive maps.
+
 _Tools: Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 
 ---
