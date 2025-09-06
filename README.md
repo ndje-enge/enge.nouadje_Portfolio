@@ -46,7 +46,7 @@ _Outils : YOLOv5, OpenCV, CLIP_
 ### 💳 **Prédiction de fraude bancaire**  
 [Voir le projet](https://github.com/ndje-enge/Bankruptcy-prediction) → Modèles de ML (Random Forest, Gradient Boosting, MLP) pour prédire les faillites d'entreprises à partir d'indicateurs clés de performance financiers.
 
-_Outils : Python, Scikit-learn, pandas
+_Outils : Python, Scikit-learn, pandas_
 
 ### 🧩 **Reconnaissance d’entités nommées (NER) avec spaCy et CamemBERT**  
 [Voir le projet](https://github.com/ndje-enge/Named-entity-recognition-Project) → Projet en collaboration avec le CNAM (Conservatoire national des arts et métiers)  : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
