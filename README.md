@@ -48,6 +48,10 @@ _AUC ROC : 0.77, Recall : 0.62_
 [Voir le projet](https://github.com/ndje-enge/Named-entity-recognition-Project) → Projet CNAM : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
 _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
+### 🏡 **Analyse des valeurs foncières en France (2020 & 2024)**
+[Voir le projet](https://github.com/ndje-enge/Land-Values-Data-Analysis) → Étude comparative de l’évolution du marché immobilier entre 2020 (Covid-19) et 2024 à partir des données publiques. Analyses par région, type de bien et prix au m², avec visualisations et cartes interactives.
+_Outils : Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
+
 ---
 
 ## 🛠️ Compétences
@@ -110,6 +114,10 @@ _AUC ROC: 0.77, Recall: 0.62_
 ### 🧩 **Named Entity Recognition (NER) with spaCy and CamemBERT**  
 [See project](https://github.com/ndje-enge/Named-entity-recognition-Project) → CNAM school project exploring NER in historical texts for faster interpretation by historians.  
 _Tools: spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
+
+### 🏡 **French Land Value Data Analysis (2020 & 2024)**
+[See project](https://github.com/ndje-enge/Land-Values-Data-Analysis) → Comparative study of the real estate market evolution between 2020 (Covid-19) and 2024 using public datasets. Analyses by region, property type, and price per m², with visualizations and interactive maps.
+_Tools: Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 
 ---
 
