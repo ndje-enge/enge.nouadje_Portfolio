@@ -10,7 +10,7 @@
 - Ingénieur généraliste (ESILV Paris, promo 2025) spécialisé en **Data Science, Deep Learning et technologies Cloud**
 - Echange académiques à Hanyang University située à Séoul où j'ai appronfondi mes compétences sur les **fondamentaux mathématiques** du Computer Vision, du NLP et du Machine Learning
 - Passionné par la Data Science et l’IA appliquée (Modéliasation, Machine Learning, NLP, Computer Vision, Agents IA) et l’industrialisation des modèles
-- Ouvert et motivé à apprendre de nouvelles compétences pour évoluer en continu.
+- Ouvert et motivé à apprendre de nouvelles compétences pour évoluer en continu
 
 ---
 
@@ -96,7 +96,7 @@ _Outils : Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 - Generalist Engineer (ESILV Paris, class of 2025) specialized in **Data Science, Deep Learning, and Cloud**
 - Academic exchange at Hanyang University located in Seoul where I deepened my skills in the **mathematical fundamentals** of Computer Vision, NLP and Machine Learning  
 - Passionate about applied AI (Modeling, Machine Learning, NLP, Computer Vision, AI Agents) and ML model industrialization  
-- Open and motivated to learn new skills to continuously evolve.
+- Open and motivated to learn new skills to continuously evolve
 
 ---
 
