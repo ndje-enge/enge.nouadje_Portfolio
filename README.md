@@ -54,10 +54,10 @@ _Outils : Python, Scikit-learn, pandas_
 
 _Outils : spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
-### **Analyse des valeurs foncières en France (2020 & 2024)**
-[Voir le projet](https://github.com/ndje-enge/Land-Values-Data-Analysis) → Étude comparative de l’évolution du marché immobilier entre 2020 (Covid-19) et 2024 à partir des données publiques. Analyses par région, type de bien et prix au m², avec visualisations et cartes interactives.
+### **Déploiement Kubernetes d'une application Flask de voyage**
+[Voir le projet](https://gitlab.com/ndje-enge-group/docker-project) → Application web de réservation de voyage en architecture microservices (Flask + Kubernetes) avec déploiement automatisé via GitLab CI/CD sur Google Kubernetes Engine, incluant 3 services backend, bases de données SQLite en mémoire, et infrastructure Kubernetes complète.
 
-_Outils : Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
+_Outils : Python, Docker, GCP, Kubernetes, Gitlab, SQLite
 
 ---
 
@@ -74,11 +74,11 @@ _Outils : Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 
 ## Compétences comportementales
 
-- Adaptabilité
-- Travail d'équipe
-- Curiosité
-- Pro-activité
-- Rigueur
+- Capacité à vulgariser des analyses et à adapter le discours à des audiences variées, techniques ou non.
+- Capacité à comprendre et traduire des enjeux business complexes en solutions techniques adaptées.
+- Capacité à challenger les solutions existantes et à recevoir du feedback pour s’améliorer.
+- Esprit d’équipe et collaboration efficace avec les ingénieurs data IA et experts métier.
+- Orientation résultats, pragmatisme et capacité à travailler en mode agile.
 
 
 ---
@@ -88,6 +88,8 @@ _Outils : Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 - 0752632817
 
 ---
+
+
 
 
 ## 🇬🇧 English Version
@@ -140,10 +142,10 @@ _Tools: Python, Scikit-learn, pandas_
 
 _Tools: spaCy (en_core_web_sm, fr_core_news_lg), HuggingFace CamemBERT, BeautifulSoup, Transformers_
 
-### **French Land Value Data Analysis (2020 & 2024)**
-[See project](https://github.com/ndje-enge/Land-Values-Data-Analysis) → Comparative study of the real estate market evolution between 2020 (Covid-19) and 2024 using public datasets. Analyses by region, property type, and price per m², with visualizations and interactive maps.
+### **Kubernetes Deployment of a Flask Travel Application**
+[See project](https://gitlab.com/ndje-enge-group/docker-project) → Web-based travel booking application using a microservices architecture (Flask + Kubernetes) with automated deployment through GitLab CI/CD on Google Kubernetes Engine. Includes 3 backend services, in-memory SQLite databases, and a complete Kubernetes infrastructure.
 
-_Tools: Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
+_Tools: Python, Docker, GCP, Kubernetes, GitLab, SQLite
 
 ---
 
@@ -159,16 +161,17 @@ _Tools: Python, pandas, numpy, matplotlib, seaborn, plotly, folium_
 ---
 
 ## Soft Skills
-- Adaptability
-- Team Work
-- Curiosity
-- Pro-activity
-- Rigor
+
+- Ability to popularize analyses and adapt communication to various audiences, both technical and non-technical.
+- Ability to understand and translate complex business challenges into suitable technical solutions.
+- Ability to challenge existing solutions and receive feedback to improve.
+- Team spirit and effective collaboration with data/AI engineers and business experts.
+- Results-oriented mindset, pragmatism, and ability to work in an agile environment.
 
 ---
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/enge-nouadje-fotso/)  
 - e_nouadje@orange.fr
-- +33 752632817
+- +33752632817
 
 
