@@ -7,8 +7,8 @@
 ## 🇫🇷 Version Française 
 
 ## A propos de moi ?
-- Ingénieur généraliste (ESILV Paris, promo 2025) spécialisé en **Data Science, Deep Learning et technologies Cloud**
-- Echange académiques à Hanyang University située à Séoul où j'ai appronfondi mes compétences sur les **fondamentaux mathématiques** du Computer Vision, du NLP et du Machine Learning
+- Ingénieur généraliste (ESILV Paris) spécialisé en **Data Science, Deep Learning et technologies Cloud**
+- Echange académiques à Hanyang University (classée 6ème au Corée du Sud) située à Séoul où j'ai appronfondi mes compétences sur les **fondamentaux mathématiques** du Computer Vision, du NLP et du Machine Learning
 - Passionné par la Data Science et l’IA appliquée (Modéliasation, Machine Learning, NLP, Computer Vision, Agents IA) et l’industrialisation des modèles
 - Ouvert et motivé à apprendre de nouvelles compétences pour évoluer en continu
 
@@ -44,10 +44,10 @@ _Outils : Python, pandas, statsmodels_
 
 _Outils : YOLOv5, OpenCV, CLIP_
 
-### **Prédiction de fraude bancaire**  
-[Voir le projet](https://github.com/ndje-enge/Bankruptcy-prediction) → Modèles de ML (Random Forest, Gradient Boosting, MLP) pour prédire les faillites d'entreprises à partir d'indicateurs clés de performance financiers.
+### **Prédiction de fraude bancaire utilisant AWS Sagemaker**  
+[Voir le projet](https://github.com/ndje-enge/AWS-Bankruptcy-prediction) → Multi-Layer Perceptron Classifier pour la prédiction de faillite d’entreprises taïwanaises, déployé sur AWS SageMaker (eu-west-3) avec une API REST
 
-_Outils : Python, Scikit-learn, pandas_
+_Outils : AWS Sagemaker, AWS S3, Python, Scikit-learn, pandas_
 
 ### **Reconnaissance d’entités nommées (NER) avec spaCy et CamemBERT**  
 [Voir le projet](https://github.com/ndje-enge/Named-entity-recognition-Project) → Projet en collaboration avec le CNAM (Conservatoire national des arts et métiers)  : exploration de la NER dans des textes historiques pour faciliter leur interprétation par des historiens.  
@@ -95,8 +95,8 @@ _Outils : Python, Docker, GCP, Kubernetes, Gitlab, SQLite
 ## 🇬🇧 English Version
 
 ## About me
-- Generalist Engineer (ESILV Paris, class of 2025) specialized in **Data Science, Deep Learning, and Cloud**
-- Academic exchange at Hanyang University located in Seoul where I deepened my skills in the **mathematical fundamentals** of Computer Vision, NLP and Machine Learning  
+- Generalist Engineer (ESILV Paris) specialized in **Data Science, Deep Learning, and Cloud**
+- Academic exchange at Hanyang University (ranked 6th in South Korea) located in Seoul where I deepened my skills in the **mathematical fundamentals** of Computer Vision, NLP and Machine Learning  
 - Passionate about applied AI (Modeling, Machine Learning, NLP, Computer Vision, AI Agents) and ML model industrialization  
 - Open and motivated to learn new skills to continuously evolve
 
@@ -132,10 +132,10 @@ _Tools: Python, pandas, statsmodels_
 
 _Tools: YOLOv5, OpenCV, CLIP_
 
-### **Bankruptcy Prediction (Fraud-related)**  
-[See project](https://github.com/ndje-enge/Bankruptcy-prediction) → ML models (Random Forest, Gradient Boosting, MLP) to predict company bankruptcies from key financial indicators.  
+### **Bankruptcy Prediction using AWS Sagemaker**  
+[See project](https://github.com/ndje-enge/AWS-Bankruptcy-prediction) → Multi-Layer Perceptron Classifier model for Taiwanese company bankruptcy prediction deployed on AWS SageMaker (eu-west-3) + REST API.  
 
-_Tools: Python, Scikit-learn, pandas_
+_Tools: AWS Sagemaker, AWS S3, Python, Scikit-learn, pandas_
 
 ### **Named Entity Recognition (NER) with spaCy and CamemBERT**  
 [See project](https://github.com/ndje-enge/Named-entity-recognition-Project) → Collaborative project with CNAM (Conservatoire national des arts et métiers): exploring NER in historical texts to assist historians in interpretation.
